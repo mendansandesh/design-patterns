@@ -1,4 +1,4 @@
-package com.observer.pattern;
+package com.pattern.observer;
 
 import java.text.DecimalFormat;
 

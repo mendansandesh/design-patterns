@@ -1,4 +1,4 @@
-package com.strategy.pattern;
+package com.pattern.strategy;
 
 /**
  * Created by sandesh on 22/02/22

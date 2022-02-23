@@ -1,4 +1,4 @@
-package com.observer.pattern;
+package com.pattern.observer;
 
 /**
  * Created by sandesh on 22/02/22
